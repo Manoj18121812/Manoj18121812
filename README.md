@@ -92,8 +92,9 @@
 
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.demolab.com?user=Manoj18121812&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="400">
+  <img src="https://streak-stats.demolab.com/?user=Manoj18121812&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="400">
 </div>
+
 
 ---
 
