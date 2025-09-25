@@ -91,11 +91,9 @@
 
 
 
-<p align="center">
-  <!-- GitHub Streak Stats -->
-  <img src="https://github-readme-streak-stats.demolab.vercel.app/?user=Manoj18121812&theme=radical" alt="GitHub Streak" />
-</p>
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Manoj18121812&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165">
+</div>
 ---
 
 ## 🏆 Projects Showcase
