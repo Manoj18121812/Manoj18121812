@@ -92,8 +92,9 @@
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Manoj18121812&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165">
+  <img src="https://github-readme-streak-stats.demolab.com?user=Manoj18121812&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="400">
 </div>
+
 ---
 
 ## 🏆 Projects Showcase
