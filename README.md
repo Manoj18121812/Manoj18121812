@@ -31,7 +31,7 @@
 🐳 DevOps Tools: Docker, Jenkins, Linux, Git<br/>
 🚀 Expertise: REST APIs, CI/CD pipelines, scalable enterprise solutions<br/>
 🌱 Learning: Cloud & Containerization for deployment automation<br/>
-📩 Reach Me: [manojkgavhane@gmail.com](mailto:manojkgavhane@gmail.com)
+📩 Reach Me: manojkgavhane@gmail.com
 </p>
 
 ---
