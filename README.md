@@ -94,7 +94,10 @@
   <img src="https://streak-stats.demolab.com/?user=Manoj18121812&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="400">
 </div>
 
-
+## 📈 Activity Graph
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Manoj18121812&theme=tokyo-night&hide_border=true" alt="Activity Graph">
+</div>
 ---
 
 ## 🏆 Projects Showcase
