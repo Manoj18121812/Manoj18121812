@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/👋-Hi,_I'm_Manoj_Gavhane-red?style=for-the-badge&logo=github" alt="Hi Banner"/>
-</p>
+</p> 
 
 <h1 align="center">🚀 Java Full Stack Developer | DevOps Enthusiast</h1>
 
