@@ -109,6 +109,14 @@
 
 ---
 
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Manoj18121812&theme=tokyonight&margin-w=10&row=1&column=6"/>
+</p>
+
+---
+
 ## 🏆 Projects Showcase
 
 <p align="center">
@@ -147,4 +155,4 @@ I enjoy breaking down Java, Web Development & DevOps concepts while learning and
 ## ✅ Why Follow Me?  
 - Active on GitHub with real projects & contributions  
 - Sharing knowledge about Java, Spring Boot, ReactJS, DevOps  
-- Constantly learning Cloud, Docker, Jenkins & CI/CD practices
+- Constantly learning Cloud, Docker, Jenkins & CI/CD practices  
