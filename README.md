@@ -20,7 +20,7 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p> 
 
----  
+---
 
 ## 👨‍💻 About Me  
 
@@ -42,6 +42,15 @@
 <a href="https://github.com/Manoj18121812" target="_blank"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" alt="GitHub"/></a>
 <a href="mailto:manojkgavhane@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" alt="Email"/></a>
 </p>
+
+---
+
+## 🐍 GitHub Contribution Snake  
+<div align="center">
+
+![snake gif](https://raw.githubusercontent.com/Manoj18121812/Manoj18121812/output/github-contribution-grid-snake.svg)
+
+</div>
 
 ---
 
@@ -97,6 +106,7 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Manoj18121812&theme=tokyo-night&hide_border=true" alt="Activity Graph">
 </div>
+
 ---
 
 ## 🏆 Projects Showcase
@@ -134,7 +144,7 @@ I enjoy breaking down Java, Web Development & DevOps concepts while learning and
 
 ---
 
-✅ Why Follow Me?  
+## ✅ Why Follow Me?  
 - Active on GitHub with real projects & contributions  
 - Sharing knowledge about Java, Spring Boot, ReactJS, DevOps  
 - Constantly learning Cloud, Docker, Jenkins & CI/CD practices
