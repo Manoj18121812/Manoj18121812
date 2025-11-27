@@ -2,7 +2,7 @@
   <img src="https://img.shields.io/badge/👋-Hi,_I'm_Manoj_Gavhane-red?style=for-the-badge&logo=github" alt="Hi Banner"/>
 </p> 
 
-<h1 align="center">🚀 Java Full Stack Developer | DevOps Enthusiast</h1>
+<h1 align="center">🚀 Java Back End Developer | DevOps Enthusiast</h1>
 
 <p align="center">
   🔥 Passionate about building <b>scalable, secure, and user-friendly applications</b>.<br/>
