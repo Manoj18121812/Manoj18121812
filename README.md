@@ -21,12 +21,14 @@
 </p> 
 
 ---
-
+<div id="header" align="center">
+  <img src="https://media0.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47rkjol4ym81w3jeu0amgmajk8fttin6tuywkjfkop&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="600"/>
+</div>
 
 ## 👨‍💻 About Me  
 
 <p align="justify">
-<img align="right" alt="Coding GIF" width="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
 🎓 B.E. in Computer Engineering, Savitribai Phule Pune University<br/>
 💻 Tech Stack: Java, Spring Boot, ReactJS, Thymeleaf, MySQL, Bootstrap<br/>
 🐳 DevOps Tools: Docker, Jenkins, Linux, Git<br/>
