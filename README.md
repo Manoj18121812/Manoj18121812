@@ -12,7 +12,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-  <img src="https://img.shields.io/badge/ReactJS-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
@@ -30,7 +30,7 @@
 <p align="justify">
 
 🎓 B.E. in Computer Engineering, Savitribai Phule Pune University<br/>
-💻 Tech Stack: Java, Spring Boot, ReactJS, Thymeleaf, MySQL, Bootstrap<br/>
+💻 Tech Stack: Java, Spring Boot,  Thymeleaf, MySQL, Bootstrap<br/>
 🐳 DevOps Tools: Docker, Jenkins, Linux, Git<br/>
 🚀 Expertise: REST APIs, CI/CD pipelines, scalable enterprise solutions<br/>
 🌱 Learning: Cloud & Containerization for deployment automation<br/>
