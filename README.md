@@ -2,23 +2,25 @@
   <img src="https://img.shields.io/badge/👋-Hi,_I'm_Manoj_Gavhane-red?style=for-the-badge&logo=github" alt="Hi Banner"/>
 </p> 
 
-<h1 align="center">🚀 Java Back End Developer | DevOps Enthusiast</h1>
+<h1 align="center">🚀 DevOps-Focused Full Stack Java Developer</h1>
 
 <p align="center">
-  🔥 Passionate about building <b>scalable, secure, and user-friendly applications</b>.<br/>
-  🌱 Exploring <b>Cloud, Containerization & CI/CD practices</b> for deployment automation.
+  🔥 Building <b>scalable, secure, and production-ready applications</b> with Java & Spring Boot.<br/>
+  ♻️ Hands-on in <b>CI/CD Automation, Docker, Jenkins & AWS</b> for seamless deployments.
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-  
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p> 
+  <img src="https://img.shields.io/badge/CI/CD-0A66C2?style=for-the-badge&logo=azurepipelines&logoColor=white" />
+</p>
+
 
 ---
 <div id="header" align="center">
@@ -29,23 +31,47 @@
 
 <p align="justify">
 
-🎓 B.E. in Computer Engineering, Savitribai Phule Pune University<br/>
-💻 Tech Stack: Java, Spring Boot,  Thymeleaf, MySQL, Bootstrap<br/>
-🐳 DevOps Tools: Docker, Jenkins, Linux, Git<br/>
-🚀 Expertise: REST APIs, CI/CD pipelines, scalable enterprise solutions<br/>
-🌱 Learning: Cloud & Containerization for deployment automation<br/>
-📩 Reach Me: manojkgavhane@gmail.com
+🎓 B.E. in Computer Engineering – Savitribai Phule Pune University<br/>
+💻 Tech Stack: Java, Spring Boot, Thymeleaf, MySQL, Bootstrap<br/>
+🐳 DevOps Tools: Docker, Jenkins, CI/CD, Linux, Git/GitHub<br/>
+☁️ Cloud: AWS EC2, S3, IAM<br/>
+🚀 Expertise: REST APIs, Authentication, Microservices Basics, Deployment Automation<br/>
+⚙️ Experience: Building Jenkins pipelines, Docker containerization, AWS EC2 deployment<br/>
+🎯 Focus: Scalable backend development & DevOps-driven delivery<br/>
+📩 Reach Me: manojgavhane1812@gmail.com  
+
 </p>
+
 
 ---
 
 
 ## 🔗 Connect with Me  
+
 <p align="left">
-<a href="https://www.linkedin.com/in/manoj-gavhane-855b4b224" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
-<a href="https://github.com/Manoj18121812" target="_blank"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" alt="GitHub"/></a>
-<a href="mailto:manojkgavhane@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" alt="Email"/></a>
+
+<a href="https://www.linkedin.com/in/manoj-gavhane-855b4b224" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Manoj_Gavhane-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+</a>
+
+<a href="https://github.com/Manoj18121812" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-Manoj18121812-black?style=for-the-badge&logo=github" alt="GitHub"/>
+</a>
+
+<a href="mailto:manojkgavhane@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-manojk_gavhane-red?style=for-the-badge&logo=gmail" alt="Email"/>
+</a>
+
+<a href="[https://leetcode.com/YOUR_LEETCODE_USERNAME](https://leetcode.com/u/MANOJ1812/)" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode" alt="LeetCode"/>
+</a>
+
+<a href="https://drive.google.com/your-resume-link" target="_blank">
+  <img src="https://img.shields.io/badge/Resume-Download-success?style=for-the-badge&logo=googledrive" alt="Resume"/>
+</a>
+
 </p>
+
 
 ---
 
@@ -58,44 +84,46 @@
 
 ---
 
-## 🛠 Languages & Tools  
+## 🛠 Tech Stack & Tools  
 
-### 🔤 Languages  
+### 💻 Core Languages  
 <p align="center">  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="60"/>  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="60"/>  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="60"/>  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="60"/>  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="60"/>  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="60" title="Java"/>  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="60" title="HTML5"/>  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="60" title="CSS3"/>  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="60" title="JavaScript"/>  
 </p>  
 
-### 📚 Frameworks & Libraries  
+### 🚀 Backend & Frameworks  
 <p align="center">  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="60"/>  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hibernate/hibernate-original.svg" width="60"/>  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tomcat/tomcat-original.svg" width="60"/>  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/thymeleaf/thymeleaf-original.svg" width="60"/>  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="60"/>  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="60" title="Spring Boot"/>  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hibernate/hibernate-original.svg" width="60" title="Hibernate"/>  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/thymeleaf/thymeleaf-original.svg" width="60" title="Thymeleaf"/>  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="60" title="Bootstrap"/>  
 </p>  
 
-### ⚙️ Tools & DevOps  
+### ☁️ DevOps & Cloud  
 <p align="center">  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="60"/>  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="60"/>  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="60"/>  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg" width="60"/>  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg" width="60"/>  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" width="60"/>  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" width="60"/>  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="60"/>  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" width="60"/>  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="60"/>  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="60" title="Docker"/>  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" width="60" title="Jenkins"/>  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="60" title="Linux"/>  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="60" title="Git"/>  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="60" title="GitHub"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="60" title="AWS"/>  
+</p>  
+
+### 🛠 Development Tools  
+<p align="center">  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg" width="60" title="Maven"/>  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="60" title="Postman"/>  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg" width="60" title="Eclipse"/>  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" width="60" title="JIRA"/>  
 </p>  
 
 ### 🗄️ Databases  
 <p align="center">  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="70"/>  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="60"/>  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="70" title="MySQL"/>  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="60" title="MongoDB"/>  
 </p>
 
 ---
