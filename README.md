@@ -1,13 +1,18 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/👋-Hi,_I'm_Manoj_Gavhane-red?style=for-the-badge&logo=github" alt="Hi Banner"/>
-</p> 
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=150&section=header&text=Manoj%20Gavhane&fontSize=40&fontAlignY=35"/>
+</p>
 
 <h1 align="center">🚀 DevOps-Focused Full Stack Java Developer</h1>
 
 <p align="center">
-  🔥 Building <b>scalable, secure, and production-ready applications</b> with Java & Spring Boot.<br/>
-  ♻️ Hands-on in <b>CI/CD Automation, Docker, Jenkins & AWS</b> for seamless deployments.
+  🔥 Building <b>scalable, secure, and production-grade applications</b> with Java & Spring Boot.<br/>
+  ⚙️ Expertise in <b>CI/CD Automation • Docker • Jenkins • AWS EC2</b>.<br/>
+  ♻️ Code → Build → Test → Docker → Deploy → Cloud 🚀
 </p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=500&color=A855F7&center=true&vCenter=true&width=600&lines=CI%2FCD+Automation;Docker+%7C+Jenkins+%7C+AWS;Spring+Boot+Backend+Developer" />
+</p>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
@@ -15,7 +20,9 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+
+
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/CI/CD-0A66C2?style=for-the-badge&logo=azurepipelines&logoColor=white" />
@@ -87,43 +94,53 @@
 ## 🛠 Tech Stack & Tools  
 
 ### 💻 Core Languages  
-<p align="center">  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="60" title="Java"/>  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="60" title="HTML5"/>  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="60" title="CSS3"/>  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="60" title="JavaScript"/>  
-</p>  
+<p align="center">
+<marquee direction="left" scrollamount="3" onmouseover="this.stop();" onmouseout="this.start();">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="60"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="60"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="60"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="60"/>
+</marquee>
+</p>
 
 ### 🚀 Backend & Frameworks  
-<p align="center">  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="60" title="Spring Boot"/>  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hibernate/hibernate-original.svg" width="60" title="Hibernate"/>  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/thymeleaf/thymeleaf-original.svg" width="60" title="Thymeleaf"/>  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="60" title="Bootstrap"/>  
-</p>  
+<p align="center">
+<marquee direction="right" scrollamount="3" onmouseover="this.stop();" onmouseout="this.start();">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="60"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hibernate/hibernate-original.svg" width="60"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/thymeleaf/thymeleaf-original.svg" width="60"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="60"/>
+</marquee>
+</p>
 
 ### ☁️ DevOps & Cloud  
-<p align="center">  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="60" title="Docker"/>  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" width="60" title="Jenkins"/>  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="60" title="Linux"/>  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="60" title="Git"/>  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="60" title="GitHub"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="60" title="AWS"/>  
-</p>  
+<p align="center">
+<marquee direction="left" scrollamount="5" onmouseover="this.stop();" onmouseout="this.start();">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="60"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" width="60"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="60"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="60"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="60"/>
+</marquee>
+</p>
 
 ### 🛠 Development Tools  
-<p align="center">  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg" width="60" title="Maven"/>  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="60" title="Postman"/>  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg" width="60" title="Eclipse"/>  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" width="60" title="JIRA"/>  
-</p>  
+<p align="center">
+<marquee direction="right" scrollamount="3" onmouseover="this.stop();" onmouseout="this.start();">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg" width="60"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="60"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg" width="60"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" width="60"/>
+</marquee>
+</p>
 
 ### 🗄️ Databases  
-<p align="center">  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="70" title="MySQL"/>  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="60" title="MongoDB"/>  
+<p align="center">
+<marquee direction="left" scrollamount="3" onmouseover="this.stop();" onmouseout="this.start();">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="70"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="60"/>
+</marquee>
 </p>
 
 ---
