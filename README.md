@@ -169,39 +169,50 @@
 ## 🏆 Projects Showcase
 
 <p align="center">
+
   <a href="https://github.com/Manoj18121812/DevOps-Result-System" target="_blank">
-    <img src="https://img.shields.io/badge/🎓-Student_Result_System-red?style=for-the-badge&logo=github" alt="Student Result System"/>
+    <img src="https://img.shields.io/badge/🚀-Student_Result_System_(DevOps_CI/CD)-8E2DE2?style=for-the-badge&logo=github" alt="Student Result System"/>
   </a>
+
   <a href="https://github.com/Manoj18121812/Job-Portal" target="_blank">
-    <img src="https://img.shields.io/badge/💼-Job_Portal-blue?style=for-the-badge&logo=github" alt="Job Portal"/>
+    <img src="https://img.shields.io/badge/💼-Job_Portal_(Spring_Boot)-0A66C2?style=for-the-badge&logo=github" alt="Job Portal"/>
   </a>
+
   <a href="https://github.com/Manoj18121812/LeetCode-SQL" target="_blank">
-    <img src="https://img.shields.io/badge/📝-LeetCode_SQL-yellow?style=for-the-badge&logo=github" alt="LeetCode SQL"/>
+    <img src="https://img.shields.io/badge/📝-LeetCode_SQL_Practice-FFD43B?style=for-the-badge&logo=github" alt="LeetCode SQL"/>
   </a>
+
   <a href="https://github.com/Manoj18121812/JavaAllCode" target="_blank">
-    <img src="https://img.shields.io/badge/💻-JavaAllCode-orange?style=for-the-badge&logo=github" alt="Java All Code"/>
+    <img src="https://img.shields.io/badge/💻-Java_Core_Concepts-FF6F00?style=for-the-badge&logo=github" alt="Java All Code"/>
   </a>
+
   <a href="https://github.com/Manoj18121812/react-app" target="_blank">
-    <img src="https://img.shields.io/badge/⚛-React_App-lightblue?style=for-the-badge&logo=github" alt="React App"/>
+    <img src="https://img.shields.io/badge/⚛-React_Frontend-61DAFB?style=for-the-badge&logo=github" alt="React App"/>
   </a>
+
   <a href="https://github.com/Manoj18121812/NodeJS" target="_blank">
-    <img src="https://img.shields.io/badge/🟢-NodeJS-green?style=for-the-badge&logo=github" alt="NodeJS"/>
+    <img src="https://img.shields.io/badge/🟢-NodeJS_API-339933?style=for-the-badge&logo=github" alt="NodeJS"/>
   </a>
+
 </p>
 
 <p align="center">
-  Explore my repositories for real-world projects, daily coding practice, and full-stack development examples! 🚀
+🚀 DevOps CI/CD • Spring Boot • Full Stack • Cloud Deployment • Practice & Learning  
 </p>
+
 
 ---
 
 ## ✨ Fun Fact  
 💡 “If you can’t explain it simply, you don’t understand it well enough.”  
-I enjoy breaking down Java, Web Development & DevOps concepts while learning and teaching.  
+
+I love simplifying **CI/CD, cloud, and backend concepts**, and turning them into real working solutions.  
+Building applications, automating deployments, and continuously improving systems is how I learn and grow every day 🚀.
 
 ---
-
 ## ✅ Why Follow Me?  
-- Active on GitHub with real projects & contributions  
-- Sharing knowledge about Java, Spring Boot, ReactJS, DevOps  
-- Constantly learning Cloud, Docker, Jenkins & CI/CD practices  
+- Practical implementations of **CI/CD pipelines and AWS deployments**  
+- Java Spring Boot backend projects with **Dockerized environments**  
+- Learning notes on **DevOps, Linux, and cloud automation**  
+- Consistent growth through coding, building, and deploying  
+- Focus on **clean code, automation, and scalable systems**
