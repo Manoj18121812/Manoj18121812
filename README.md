@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=150&section=header&text=Manoj%20Gavhane&fontSize=40&fontAlignY=35"/>
 </p>
 
-<h1 align="center">🚀 DevOps-Focused Full Stack Java Developer</h1>
+<h1 align="center">🚀 DevOps Engineer | Java Developer</h1>
 
 <p align="center">
   🔥 Building <b>scalable, secure, and production-grade applications</b> with Java & Spring Boot.<br/>
