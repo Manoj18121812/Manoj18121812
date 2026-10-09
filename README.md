@@ -1,218 +1,173 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=150&section=header&text=Manoj%20Gavhane&fontSize=40&fontAlignY=35"/>
-</p>
+ <div align="center">
 
-<h1 align="center">🚀 DevOps Engineer | Java Developer</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=180&section=header&text=Manoj%20Gavhane&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=DevOps%20Engineer%20%7C%20AWS%20Cloud%20%7C%20DevSecOps&descAlignY=58&descSize=18" width="100%" />
 
-<p align="center">
-  🔥 Building <b>scalable, secure, and production-grade applications</b> with Java & Spring Boot.<br/>
-  ⚙️ Expertise in <b>CI/CD Automation • Docker • Jenkins • AWS EC2</b>.<br/>
-  ♻️ Code → Build → Test → Docker → Deploy → Cloud 🚀
-</p>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=500&color=A855F7&center=true&vCenter=true&width=600&lines=CI%2FCD+Automation;Docker+%7C+Jenkins+%7C+AWS;Spring+Boot+Backend+Developer" />
-</p>
+# 🚀 DevOps Engineer | AWS Cloud | Kubernetes
 
+**Automating deployments. Securing pipelines. Monitoring cloud infrastructure.**
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
-  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-203A43?style=for-the-badge\&logo=googlechrome\&logoColor=white)](https://www.manojkgavhane.co.in)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/manoj-gavhane-855b4b224)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge\&logo=github)](https://github.com/Manoj18121812)
 
-
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/CI/CD-0A66C2?style=for-the-badge&logo=azurepipelines&logoColor=white" />
-</p>
-
-
----
-<div id="header" align="center">
-  <img src="https://media0.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47rkjol4ym81w3jeu0amgmajk8fttin6tuywkjfkop&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="600"/>
 </div>
 
-## 👨‍💻 About Me  
+---
 
-<p align="justify">
+## 👨‍💻 About Me
 
-🎓 B.E. in Computer Engineering – Savitribai Phule Pune University<br/>
-💻 Tech Stack: Java, Spring Boot, Thymeleaf, MySQL, Bootstrap<br/>
-🐳 DevOps Tools: Docker, Jenkins, CI/CD, Linux, Git/GitHub<br/>
-☁️ Cloud: AWS EC2, S3, IAM<br/>
-🚀 Expertise: REST APIs, Authentication, Microservices Basics, Deployment Automation<br/>
-⚙️ Experience: Building Jenkins pipelines, Docker containerization, AWS EC2 deployment<br/>
-🎯 Focus: Scalable backend development & DevOps-driven delivery<br/>
-📩 Reach Me: manojgavhane1812@gmail.com  
-
-</p>
-
+* 🎓 B.E. in Computer Engineering — Sinhgad Institute of Technology, Pune
+* ☁️ Focused on **AWS Cloud, Kubernetes, CI/CD, and DevSecOps**
+* 🔄 Building automated pipelines using **Jenkins, GitHub, Maven, and Docker**
+* 🔐 Implementing security scanning with **SonarQube, OWASP Dependency-Check, and Trivy**
+* 📊 Exploring infrastructure monitoring with **Prometheus, Grafana, and Alertmanager**
+* 🐧 Practicing Linux administration, Bash scripting, networking, and Nginx
+* 💼 DevOps Intern at **Davine Technologies**
+* 🌐 Portfolio: [manojkgavhane.co.in](https://www.manojkgavhane.co.in)
+* 📧 Email: [manojgavhane1812@gmail.com](mailto:manojgavhane1812@gmail.com)
 
 ---
 
+## 🛠️ Tech Stack & Tools
 
-## 🔗 Connect with Me  
+### ☁️ Cloud & Infrastructure
 
-<p align="left">
-
-<a href="https://www.linkedin.com/in/manoj-gavhane-855b4b224" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Manoj_Gavhane-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-</a>
-
-<a href="https://github.com/Manoj18121812" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-Manoj18121812-black?style=for-the-badge&logo=github" alt="GitHub"/>
-</a>
-
-<a href="mailto:manojkgavhane@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-manojk_gavhane-red?style=for-the-badge&logo=gmail" alt="Email"/>
-</a>
-
-<a href="[https://leetcode.com/YOUR_LEETCODE_USERNAME](https://leetcode.com/u/MANOJ1812/)" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode" alt="LeetCode"/>
-</a>
-
-<a href="https://drive.google.com/your-resume-link" target="_blank">
-  <img src="https://img.shields.io/badge/Resume-Download-success?style=for-the-badge&logo=googledrive" alt="Resume"/>
-</a>
-
+<p>
+<img src="https://skillicons.dev/icons?i=aws,terraform,ansible" />
 </p>
 
+**AWS Services:** EC2, S3, IAM, VPC, RDS, Route 53, EKS
+
+### 🐳 Containers & CI/CD
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,git,github,maven" />
+</p>
+
+### 🔐 DevSecOps & Monitoring
+
+<p>
+<img src="https://img.shields.io/badge/SonarQube-126ED3?style=for-the-badge&logo=sonarqube&logoColor=white" />
+<img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white" />
+<img src="https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=aqua&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=prometheus,grafana" />
+</p>
+
+### 💻 Operating Systems & Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=linux,bash,nginx,java,spring,mysql,maven" />
+</p>
 
 ---
 
-## 🐍 GitHub Contribution Snake  
+## 🚀 Featured Projects
+
+### 1. Production-Grade Kubernetes Deployment on AWS EKS
+
+**Technologies:** AWS EKS, EC2, Docker, Kubernetes, Jenkins, Maven, MySQL, Helm, NGINX Ingress, Prometheus, Grafana
+
+* Deployed a containerized Spring Boot and MySQL application on Amazon EKS.
+* Automated build and deployment workflows using Jenkins and GitHub webhooks.
+* Configured Horizontal Pod Autoscaling, rolling updates, and readiness/liveness probes.
+* Deployed NGINX Ingress for traffic routing and Prometheus/Grafana for monitoring.
+* Used Kubernetes configuration resources, secrets, and persistent storage.
+
+🔗 [Explore My GitHub Projects](https://github.com/Manoj18121812?tab=repositories)
+
+### 2. Secure CI/CD Pipeline with DevSecOps Scanning
+
+**Technologies:** Jenkins, SonarQube, OWASP Dependency-Check, Trivy, Docker, Kubernetes, Maven, AWS
+
+* Integrated static code analysis and dependency vulnerability scanning into CI/CD.
+* Implemented container image scanning using Trivy.
+* Configured quality gates to identify code-quality issues before deployment.
+* Automated container builds and deployment workflows using Jenkins and GitHub webhooks.
+
+🔗 [Explore My GitHub Projects](https://github.com/Manoj18121812?tab=repositories)
+
+### 3. AWS Infrastructure Automation with Terraform & Ansible
+
+**Technologies:** AWS, Terraform, Ansible, Linux, Bash, SSH
+
+* Automated AWS infrastructure provisioning using Terraform.
+* Worked with VPC, subnets, Internet Gateway, route tables, security groups, and EC2.
+* Practiced server configuration management using Ansible playbooks, inventories, and roles.
+* Automated installation and configuration of common server tools.
+
+🔗 [Explore My GitHub Projects](https://github.com/Manoj18121812?tab=repositories)
+
+### 📚 Other Projects
+
+* 🚀 [Student Result System — DevOps CI/CD](https://github.com/Manoj18121812/DevOps-Result-System)
+* 💼 [Job Portal — Spring Boot](https://github.com/Manoj18121812/Job-Portal)
+* 📝 [LeetCode SQL Practice](https://github.com/Manoj18121812/LeetCode-SQL)
+* ☕ [Java Core Concepts](https://github.com/Manoj18121812/JavaAllCode)
+
+---
+
+## 📊 GitHub Stats
+
 <div align="center">
 
-![snake gif](https://raw.githubusercontent.com/Manoj18121812/Manoj18121812/output/github-contribution-grid-snake.svg)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Manoj18121812&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Statistics" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manoj18121812&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+
+<img src="https://streak-stats.demolab.com?user=Manoj18121812&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
 ---
 
-## 🛠 Tech Stack & Tools  
-
-### 💻 Core Languages  
-<p align="center">
-<marquee direction="left" scrollamount="3" onmouseover="this.stop();" onmouseout="this.start();">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="60"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="60"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="60"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="60"/>
-</marquee>
-</p>
-
-### 🚀 Backend & Frameworks  
-<p align="center">
-<marquee direction="right" scrollamount="3" onmouseover="this.stop();" onmouseout="this.start();">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="60"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hibernate/hibernate-original.svg" width="60"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/thymeleaf/thymeleaf-original.svg" width="60"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="60"/>
-</marquee>
-</p>
-
-### ☁️ DevOps & Cloud  
-<p align="center">
-<marquee direction="left" scrollamount="5" onmouseover="this.stop();" onmouseout="this.start();">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="60"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" width="60"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="60"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="60"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="60"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="60"/>
-</marquee>
-</p>
-
-### 🛠 Development Tools  
-<p align="center">
-<marquee direction="right" scrollamount="3" onmouseover="this.stop();" onmouseout="this.start();">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg" width="60"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="60"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg" width="60"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" width="60"/>
-</marquee>
-</p>
-
-### 🗄️ Databases  
-<p align="center">
-<marquee direction="left" scrollamount="3" onmouseover="this.stop();" onmouseout="this.start();">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="70"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="60"/>
-</marquee>
-</p>
-
----
-
-## 📊 GitHub Stats & Activity
+## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Manoj18121812&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="400">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Manoj18121812&theme=tokyo-night&hide_border=true" width="100%" alt="GitHub Activity Graph" />
+
 </div>
 
-## 📈 Activity Graph
+---
+
+## 🐍 GitHub Contribution Snake
+
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Manoj18121812&theme=tokyo-night&hide_border=true" alt="Activity Graph">
+
+<img src="https://raw.githubusercontent.com/Manoj18121812/Manoj18121812/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🎓 Certifications
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Manoj18121812&theme=tokyonight&margin-w=10&row=1&column=6"/>
-</p>
-
----
-
-## 🏆 Projects Showcase
-
-<p align="center">
-
-  <a href="https://github.com/Manoj18121812/DevOps-Result-System" target="_blank">
-    <img src="https://img.shields.io/badge/🚀-Student_Result_System_(DevOps_CI/CD)-8E2DE2?style=for-the-badge&logo=github" alt="Student Result System"/>
-  </a>
-
-  <a href="https://github.com/Manoj18121812/Job-Portal" target="_blank">
-    <img src="https://img.shields.io/badge/💼-Job_Portal_(Spring_Boot)-0A66C2?style=for-the-badge&logo=github" alt="Job Portal"/>
-  </a>
-
-  <a href="https://github.com/Manoj18121812/LeetCode-SQL" target="_blank">
-    <img src="https://img.shields.io/badge/📝-LeetCode_SQL_Practice-FFD43B?style=for-the-badge&logo=github" alt="LeetCode SQL"/>
-  </a>
-
-  <a href="https://github.com/Manoj18121812/JavaAllCode" target="_blank">
-    <img src="https://img.shields.io/badge/💻-Java_Core_Concepts-FF6F00?style=for-the-badge&logo=github" alt="Java All Code"/>
-  </a>
-
-  <a href="https://github.com/Manoj18121812/react-app" target="_blank">
-    <img src="https://img.shields.io/badge/⚛-React_Frontend-61DAFB?style=for-the-badge&logo=github" alt="React App"/>
-  </a>
-
-  <a href="https://github.com/Manoj18121812/NodeJS" target="_blank">
-    <img src="https://img.shields.io/badge/🟢-NodeJS_API-339933?style=for-the-badge&logo=github" alt="NodeJS"/>
-  </a>
-
-</p>
-
-<p align="center">
-🚀 DevOps CI/CD • Spring Boot • Full Stack • Cloud Deployment • Practice & Learning  
-</p>
-
+* AWS Zero to Hero — Train With Shubham
+* DevOps Basic to Advanced — Train With Shubham
+* Linux Fundamentals — Train With Shubham
 
 ---
 
-## ✨ Fun Fact  
-💡 “If you can’t explain it simply, you don’t understand it well enough.”  
+## 🤝 Connect With Me
 
-I love simplifying **CI/CD, cloud, and backend concepts**, and turning them into real working solutions.  
-Building applications, automating deployments, and continuously improving systems is how I learn and grow every day 🚀.
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Manoj_Gavhane-0A66C2?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/manoj-gavhane-855b4b224)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Manoj18121812-181717?style=for-the-badge\&logo=github)](https://github.com/Manoj18121812)
+
+[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge\&logo=gmail)](mailto:manojgavhane1812@gmail.com)
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-MANOJ1812-FFA116?style=for-the-badge\&logo=leetcode\&logoColor=black)](https://leetcode.com/u/MANOJ1812/)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Website-203A43?style=for-the-badge\&logo=googlechrome)](https://www.manojkgavhane.co.in)
+
+</div>
 
 ---
-## ✅ Why Follow Me?  
-- Practical implementations of **CI/CD pipelines and AWS deployments**  
-- Java Spring Boot backend projects with **Dockerized environments**  
-- Learning notes on **DevOps, Linux, and cloud automation**  
-- Consistent growth through coding, building, and deploying  
-- Focus on **clean code, automation, and scalable systems**
+
+## 🎯 My Goal
+
+To build reliable, secure, and scalable cloud infrastructure through automation, continuous integration, continuous delivery, and effective monitoring.
+
+**“Automate everything repeatable. Monitor everything important. Secure every deployment.”** 🚀
